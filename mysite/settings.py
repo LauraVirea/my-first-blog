@@ -25,7 +25,7 @@ SECRET_KEY = 'lo(^db2d)#^+!jnb!exb)nm2vr4)@pn*45z1i-g2tw8zdmszn6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<lauravirea>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'lauravirea.pythonanywhere.com']
 
 
 # Application definition
